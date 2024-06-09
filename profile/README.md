@@ -16,9 +16,9 @@ avec les fonctionnalités suivantes :
 
 | Dépôt                                                               | Rôle                                                                  |
 | ------------------------------------------------------------------- | --------------------------------------------------------------------- |
-| (book-game)[https://github.com/sae56-aleph/book-game]               | Coeur du projet, il contient l'ensemble des composants React.         |
-| (book-game-api)[https://github.com/sae56-aleph/book-game-api]       | Partie chargée du lien entre les sources de données et l'application. |
-| (book-game-docker)[https://github.com/sae56-aleph/book-game-docker] | Ensemble de scripts Dockerfile pour démarrer le projet en production. |
+| [book-game](https://github.com/sae56-aleph/book-game)               | Coeur du projet, il contient l'ensemble des composants React.         |
+| [book-game-api](https://github.com/sae56-aleph/book-game-api)       | Partie chargée du lien entre les sources de données et l'application. |
+| [book-game-docker](https://github.com/sae56-aleph/book-game-docker) | Ensemble de scripts Dockerfile pour démarrer le projet en production. |
 
 ## Démarrage
 Le dépôt [book-game-docker](https://github.com/sae56-aleph/book-game-docker) a pour but d'automatiser la création des conteneurs
@@ -32,7 +32,7 @@ Le lancement de l'application se passe en deux étapes :
 Pour plus d'informations, suivre les instructions sur le dépôt.
 
 ## Auteurs
-(Simon FOUCHET)[https://github.com/SimonnCode]
-(Alexie GROSBOIS)[https://github.com/AlexieGrbs]
-(Enzo MAROS)[https://github.com/zothma]
-(Anthonin VINCENTELLI)[https://github.com/AppleJuice4]
+[Simon FOUCHET](https://github.com/SimonnCode)
+[Alexie GROSBOIS](https://github.com/AlexieGrbs)
+[Enzo MAROS](https://github.com/zothma)
+[Anthonin VINCENTELLI](https://github.com/AppleJuice4)
