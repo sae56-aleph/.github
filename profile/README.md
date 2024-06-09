@@ -11,3 +11,28 @@ avec les fonctionnalités suivantes :
 - Générer des images d'illustrations par IA, via des API.
 
 ![Capture d'écran de l'application](/profile/Screenshot.png)
+
+## Organisation du projet
+
+|---|---|
+| Dépôt | Rôle |
+| (book-game)[https://github.com/sae56-aleph/book-game] | Coeur du projet, il contient l'ensemble des composants React. |
+| (book-game-api)[https://github.com/sae56-aleph/book-game-api] | Partie chargée du lien entre les sources de données et l'application. |
+| (book-game-docker)[https://github.com/sae56-aleph/book-game-docker] | Ensemble de scripts Dockerfile pour démarrer le projet en production. |
+
+## Démarrage
+Le dépôt [book-game-docker](https://github.com/sae56-aleph/book-game-docker) a pour but d'automatiser la création des conteneurs
+Docker pour démarrer le projet en production. Il s'agit du point d'entrée offert au client fictif ayant demandé la réalisation
+de l'application.
+
+Le lancement de l'application se passe en deux étapes :
+- Remplissage des données d'environnement (clés d'API, ports...)
+- Démarrage avec docker-compose
+
+Pour plus d'informations, suivre les instructions sur le dépôt.
+
+## Auteurs
+(Simon FOUCHET)[https://github.com/SimonnCode]
+(Alexie GROSBOIS)[https://github.com/AlexieGrbs]
+(Enzo MAROS)[https://github.com/zothma]
+(Anthonin VINCENTELLI)[https://github.com/AppleJuice4]
