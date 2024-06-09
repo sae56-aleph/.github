@@ -10,4 +10,4 @@ avec les fonctionnalités suivantes :
 - Améliorer les compétences du personnage (système de statistiques),
 - Générer des images d'illustrations par IA, via des API.
 
-![Capture d'écran de l'application](./Screenshot.png)
+![Capture d'écran de l'application](/profile/Screenshot.png)
