@@ -32,7 +32,7 @@ Le lancement de l'application se passe en deux étapes :
 Pour plus d'informations, suivre les instructions sur le dépôt.
 
 ## Auteurs
-[Simon FOUCHET](https://github.com/SimonnCode)
-[Alexie GROSBOIS](https://github.com/AlexieGrbs)
-[Enzo MAROS](https://github.com/zothma)
-[Anthonin VINCENTELLI](https://github.com/AppleJuice4)
+- [Simon FOUCHET](https://github.com/SimonnCode)
+- [Alexie GROSBOIS](https://github.com/AlexieGrbs)
+- [Enzo MAROS](https://github.com/zothma)
+- [Anthonin VINCENTELLI](https://github.com/AppleJuice4)
